@@ -88,8 +88,8 @@ endmodule
 ### Program (Decoder):
 ~~~
 Program for Decoders  and verify its truth table in quartus using Verilog programming.
-Developed by: H.Syed Abdul Wasih
-RegisterNumber:  212221240057
+Developed by:Dhanush S
+RegisterNumber:  212221230020
 
 module enc(a,b,c,d0,d1,d2,d3,d4,d5,d6,d7);
 input a,b,c;
